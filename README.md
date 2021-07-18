@@ -1,3 +1,8 @@
+
+
+
+![Screenshot](https://raw.githubusercontent.com/mhmdbhsk/weekly-sharing-redux/main/screenshot.jpg)
+
 # Weekly Sharing Redux
 Author : Muhammad Bhaska
 
@@ -10,3 +15,5 @@ Stack yang dipakai
 - Redux
 - React-Redux
 
+**Presentation File**  
+[Google Slides](https://docs.google.com/presentation/d/1P9Yl83avFtxcNOC6EYONloD_CqvnE9bBEAXM7OPkum4/edit?usp=sharing)
